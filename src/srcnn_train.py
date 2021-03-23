@@ -1,7 +1,7 @@
 import os
 import numpy as np
 import datetime
-from srcnn_model2_model import SRCNNModel
+from srcnn_model import SRCNNModel
 
 from srcnn_utils import (
   read_data, 
